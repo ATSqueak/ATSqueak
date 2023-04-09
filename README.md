@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ATSqueak
-- 👀 I’m interested in simple programming. I want to explore the basics of OS programming and then also foundations of robotic programming. 
+- 👀 I’m interested in programming, and languages such as Python, C and C++. I want to explore the basics of OS programming and then also foundations of robotic programming. 
 - 🌱 I’m currently learning Python, C and also trying C++
 - 💞️ I’m looking to collaborate on NetFruit Technologies
 - 📫 How to reach me - via GitHub and LinkedIn
