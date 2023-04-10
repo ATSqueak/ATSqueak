@@ -13,7 +13,7 @@
 - 💬 Ask me about engineering, programming and databases.
 - 📫 How to reach me: On [GitHub](https://github.com/ATSqueak) and [LinkedIn](https://www.linkedin.com/in/arif-taha/).
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have a PhD in Electrical and Electronics Engineering.
+- ⚡ Fun fact: I have a PhD in Electrical and Electronics Engineering and am a chartered engineer!
 
 <!---
 ATSqueak/ATSqueak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
