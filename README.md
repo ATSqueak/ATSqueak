@@ -11,7 +11,7 @@
 - ✨ I’m looking to collaborate on NetFruit Technologies.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about engineering, programming and databases.
-- 📫 How to reach me: On [GitHub](https://github.com/ATSqueak) and LinkedIn.
+- 📫 How to reach me: On [GitHub](https://github.com/ATSqueak) and [LinkedIn](https://www.linkedin.com/in/arif-taha/).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have a PhD in Electrical and Electronics Engineering.
 
