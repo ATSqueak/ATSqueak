@@ -6,10 +6,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div> 
 
-- 🔭 I’m currently working on Python GUI using Tkinter
+- 🔭 I’m currently working on Python GUI using Tkinter.
 - 🌱 I’m currently learning Python, C, C++, OS programming and robotic programming.
 - ✨ I’m looking to collaborate on NetFruit Technologies.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with C and C++.
 - 💬 Ask me about engineering, programming and databases.
 - 📫 How to reach me: On [GitHub](https://github.com/ATSqueak) and [LinkedIn](https://www.linkedin.com/in/arif-taha/).
 - 😄 Pronouns: ...
